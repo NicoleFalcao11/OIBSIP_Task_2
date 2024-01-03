@@ -18,7 +18,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div> 
       
       <div className="app">
         <h1 className="title">Melinda French Gates</h1>
